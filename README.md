@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gaurang-ambasana
+- 👋 Hi, I’m Gaurang
 - 👀 I’m interested in Software Engineering related work
 - 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on similar projects
