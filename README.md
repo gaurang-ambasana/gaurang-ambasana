@@ -9,5 +9,6 @@
 
 👏Thanks for checking my profile.. 😁  
 
-Looking forward to our crossing paths 😉  
-Let's commit better changes to this world and better place together ✌
+😎Looking forward to our crossing paths 😉  
+
+💕Let's commit better changes to this world and make it better place together ✌
