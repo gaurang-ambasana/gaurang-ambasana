@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gaurang
 - 👀 I’m interested in Software Engineering related work
 - 🐱‍🏍 I'm currently good at JavaScript, React, Node, Python and Google Apps Script
-- ✔  I'm also good at Embedded Systems and Iot as well as beginner learner in AWS and GCP
+- ✔  I'm also good at Embedded Systems and IoT as well as beginner learner in AWS and GCP
 - 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on similar projects
 - 📫 Reach me on : [gpambasana@gmail](emailto:gpambasana@gmail.com) or [LinkedIn](http://www.linkedin.com/in/gpambasana)
