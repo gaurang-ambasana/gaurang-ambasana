@@ -7,8 +7,4 @@
 - 📫 Reach me on : [gpambasana@gmail.com](emailto:gpambasana@gmail.com) or [LinkedIn](http://www.linkedin.com/in/gpambasana)
 - 🤳 Please find my resume [here](https://docs.google.com/document/d/18IfTfexeH3kYXHumgd6QLkJPC2FBxv-MY7c5A7ufiYk/edit?usp=sharing)
 
-👏Thanks for checking my profile.. 😁  
-
-😎Looking forward to our crossing paths 😉  
-
-💕Let's commit better changes to this world and make it better place together ✌
+Let's commit better changes to this world and make it better place together ✌
