@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gaurang
-- 👀 I’m interested in Software Engineering related work
+- 👀 I’m a Software Engineering Guy
 - 🐱‍🏍 I'm currently good at JavaScript, React, Node, Python and Google Apps Script
 - ✔  I'm also good at Embedded Systems and IoT as well as beginner learner in AWS and GCP
 - 🌱 I’m currently learning and building MERN Stack Apps
