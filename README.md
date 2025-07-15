@@ -13,7 +13,7 @@ I love shipping products that are **fast**, **responsive**, and **maintainable**
 - 🛠️ **Frontend:** TypeScript, React, Next.js, Zustand, Redux
 - ⚙️ **Backend:** Node.js, FastAPI, GraphQL
 - ☁️ **Cloud & Tools:** AWS, Docker, Auth0, Google Workspace  
-- 🗃️ **Data:** PostgreSQL, Redis, BigQuery
+- 🗃️ **Data:** MySQL, PostgreSQL, Redis, BigQuery
 
 I care deeply about **clean code**, **strong code reviews**, and **collaboration** — whether it's polishing a pixel-perfect UI or optimizing backend services for performance.
 
