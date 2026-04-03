@@ -42,11 +42,6 @@
 
 ---
 
-## ⚡ Philosophy
-I don’t just build projects — I build products that people actually use.
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=120&section=footer"/>
 </p>
