@@ -1,31 +1,52 @@
-# 👋 Hi, I'm Gaurang Ambasana
-
-**I've been playing/writing/reviewing/criticizing 💻 computer code for ~ 5 years as a primary profession. I'm pretty good at using TypeScript, React ⚛️, JavaScript (you know, the usual), Python 🐍 and Node.js (a bit of GraphQL thrown in). When I say "clean code," I mean I write code that's easy to read and understand, like organizing your tools neatly. I enjoy solving challenges like fun puzzles and am super excited to work together to create cool things in the tech world! 🚀🐎**
-
-**Never forget that the code is just a tool, the goal is to use Full Stack Technologies to solve real-world problems.🛠️**
-
----
-
-### 🧑‍💻 About Me
-
-I love shipping products that are **fast**, **responsive**, and **maintainable**.
-
-- 🛠️ **Frontend:** TypeScript, React, Next.js, Zustand, Redux
-- ⚙️ **Backend:** Node.js, FastAPI, GraphQL
-- ☁️ **Cloud & Tools:** AWS, Docker, Auth0, Google Workspace  
-- 🗃️ **Data:** MySQL, PostgreSQL, Redis, BigQuery
-
-I care deeply about **clean code**, **strong code reviews**, and **collaboration** — whether it's polishing a pixel-perfect UI or optimizing backend services for performance.
+<!-- Typing Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B+I'm+Gaurang;Full+Stack+Developer;5%2B+Years+of+Experience;Building+Real+World+Products" />
+</p>
 
 ---
 
-### 📫 Get in Touch
-
-- ✉️ [gpambasana@gmail.com](mailto:gpambasana@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/gpambasana/)
-- 🌐 [Portfolio](https://gaurang-ambasana.netlify.app/)
-- 🗂️ [Resume](https://docs.google.com/document/d/1iBq5klIyAAqASSxZagm5j4ez9qODv0ismmuYENWdaO8/edit?usp=sharing)
+## 🚀 About Me
+- 🧠 Full Stack Developer with **5+ years of experience** (since August 2020)  
+- ⚡ I build fast, scalable, and production-ready applications  
+- 🤖 Focused on AI integrations & real-world problem solving  
+- 🎯 I care about performance, clean UI, and user experience  
 
 ---
 
-**Let’s build something great together! 🚀**
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,redux,tailwind,nodejs,express,graphql,docker,mysql,postgres,git,aws" />
+</p>
+
+---
+
+## 🔥 What I Build
+- 🤖 AI-powered applications  
+- 📊 Real-time dashboards  
+- 🧠 Smart productivity tools  
+- ⚡ High-performance web apps  
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://your-portfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## ⚡ Philosophy
+I don’t just build projects — I build products that people actually use.
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=120&section=footer"/>
+</p>
